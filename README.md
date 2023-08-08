@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Fantasy Premier League Datasets ⚽ ⚽ ⚽ 
+
+[FPL 23/24](https://www.kaggle.com/datasets/meraxes10/fantasy-premier-league-dataset-2023-2024)
+
+[FPL 22/23](https://www.kaggle.com/datasets/meraxes10/fantasy-premier-league-dataset-2022-2023)
+
 <!--
 **ma2za/ma2za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
