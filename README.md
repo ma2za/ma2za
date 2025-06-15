@@ -8,7 +8,7 @@ That's some sneaky world-ending right there!!!! 🤯🤯🤯🤯
 
 #### Fantasy Premier League Datasets ⚽ ⚽ ⚽ 
 
-[FPL 24/25](https://www.kaggle.com/datasets/meraxes10/fantasy-premier-league-dataset-2024-2025)
+[FPL 24/25](https://www.kaggle.com/datasets/meraxes10/fantasy-premier-league-2024-2025-v2)
 
 [FPL 23/24](https://www.kaggle.com/datasets/meraxes10/fantasy-premier-league-dataset-2023-2024)
 
